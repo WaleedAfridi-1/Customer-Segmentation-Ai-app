@@ -27,9 +27,9 @@ DEBUG = False
 
 ALLOWED_HOSTS = ["customer-segmentation-ai-app-production.up.railway.app"]
 
-CSRF_TRUSTED_ORIGINS = [
-    "https://customer-segmentation-ai-app-production.up.railway.app"
-]
+# CSRF_TRUSTED_ORIGINS = [
+#     "https://customer-segmentation-ai-app-production.up.railway.app"
+# ]
 
 
 
@@ -132,7 +132,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# CSRF_TRUSTED_ORIGINS = [
-    # "https://customer-segmentation-ai-app-production.up.railway.app",
-     # "https://*.railway.app",
-# ]
+CSRF_TRUSTED_ORIGINS = [
+    "https://customer-segmentation-ai-app-production.up.railway.app",
+     "https://*.railway.app",
+]
