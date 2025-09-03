@@ -122,8 +122,9 @@ We ❤️ contributions!
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Waleed Afridi**  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/WaleedAfridi-1)  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/waleed-afridi-3931a8333)  
 
 ---
