@@ -24,11 +24,7 @@ SECRET_KEY = 'django-insecure-5(au%z5aq=0pbj$=oor$p#p=p8i#-3r3yw2x0ih(r!&mdtq(!%
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-
-ALLOWED_HOSTS = [
-    "*",
-    "customer-segmentation-ai-app-production-1bb2.up.railway.app",
-]
+ALLOWED_HOSTS = ["*", ".railway.app"]
 
 # CSRF_TRUSTED_ORIGINS = [
 #     "https://customer-segmentation-ai-app-production.up.railway.app"
@@ -135,6 +131,7 @@ STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+
 CSRF_TRUSTED_ORIGINS = [
-    "https://customer-segmentation-ai-app-production-1bb2.up.railway.app",
+    "https://*.railway.app"
 ]
