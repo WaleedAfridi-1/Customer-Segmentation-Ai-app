@@ -5,7 +5,7 @@
 
 # 🤖 Customer Segmentation AI
 
-[![Stars](https://img.shields.io/github/stars/WaleedAfridi-1/customer-segmentation-ai?style=social)](https://github.com/WaleedAfridi-1/Customer-Segmentation-Ai-app/stargazers)
+[![Stars](https://img.shields.io/github/stars/WaleedAfridi-1/Customer-Segmentation-Ai-app?style=social)](https://github.com/WaleedAfridi-1/Customer-Segmentation-Ai-app/stargazers)
 [![Forks](https://img.shields.io/github/forks/WaleedAfridi-1/Customer-Segmentation-Ai-app?style=social)](https://github.com/WaleedAfridi-1/Customer-Segmentation-Ai-app/network/members)
 [![License](https://img.shields.io/github/license/WaleedAfridi-1/Customer-Segmentation-Ai-app)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/WaleedAfridi-1/Customer-Segmentation-Ai-app)](https://github.com/your-username/customer-segmentation-ai/issues)
