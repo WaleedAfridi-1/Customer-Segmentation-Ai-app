@@ -6,9 +6,9 @@
 # 🤖 Customer Segmentation AI
 
 [![Stars](https://img.shields.io/github/stars/WaleedAfridi-1/customer-segmentation-ai?style=social)](https://github.com/WaleedAfridi-1/Customer-Segmentation-Ai-app/stargazers)
-[![Forks](https://img.shields.io/github/forks/WaleedAfridi-1/customer-segmentation-ai?style=social)](https://github.com/WaleedAfridi-1/Customer-Segmentation-Ai-app/network/members)
+[![Forks](https://img.shields.io/github/forks/WaleedAfridi-1/Customer-Segmentation-Ai-app?style=social)](https://github.com/WaleedAfridi-1/Customer-Segmentation-Ai-app/network/members)
 [![License](https://img.shields.io/github/license/WaleedAfridi-1/Customer-Segmentation-Ai-app)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/WaleedAfridi-1/customer-segmentation-ai)](https://github.com/your-username/customer-segmentation-ai/issues)
+[![Issues](https://img.shields.io/github/issues/WaleedAfridi-1/Customer-Segmentation-Ai-app)](https://github.com/your-username/customer-segmentation-ai/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/WaleedAfridi-1/Customer-Segmentation-Ai-app)](https://github.com/your-username/customer-segmentation-ai/pulls)
 [![Deployment](https://img.shields.io/badge/Railway-Deployed-success)](https://customer-segmentation-ai-app-production-1bb2.up.railway.app/)
 
@@ -50,7 +50,7 @@ graph TD;
 
 | Input Form | Cluster Result | Insights |
 |------------|----------------|----------|
-| ![Form](assets/input.png) | ![Result](assets/insight.png) | ![Insights](assets/result.png) |
+| ![Form](assets/input.png) | ![Result](assets/result.png) | ![Insights](assets/insight.png) |
 
 ---
 
