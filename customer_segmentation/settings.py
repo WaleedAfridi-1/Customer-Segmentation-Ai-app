@@ -26,9 +26,7 @@ SECRET_KEY = 'django-insecure-5(au%z5aq=0pbj$=oor$p#p=p8i#-3r3yw2x0ih(r!&mdtq(!%
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "localhost",
-    "127.0.0.1",
-    "customer-segmentation-ai-production.up.railway.app",
+    "*","https://https://customer-segmentation-ai-app-production-1bb2.up.railway.app/"
 ]
 
 # CSRF_TRUSTED_ORIGINS = [
