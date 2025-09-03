@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-5(au%z5aq=0pbj$=oor$p#p=p8i#-3r3yw2x0ih(r!&mdtq(!%'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ["*"]
 
@@ -127,5 +127,6 @@ STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://customer-segmentation-ai-app-production.up.railway.app"
+    "https://customer-segmentation-ai-app-production.up.railway.app",
+     "https://*.railway.app",
 ]
